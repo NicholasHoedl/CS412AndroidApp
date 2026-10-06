@@ -14,4 +14,9 @@
         <item>Testing across many devices and OS versions</item>
         <item>Keeping up with frequent updates</item>
     </string-array>
+    <string name="btn_start_service">Start Service</string>
+    <string name="btn_bind_service">Bind Service</string>
+    <string name="btn_send_broadcast">Send Broadcast</string>
+    <string name="grade_placeholder">Grade: -</string>
+    <string name="grade_format">Grade: %1$s</string>
 </resources>
