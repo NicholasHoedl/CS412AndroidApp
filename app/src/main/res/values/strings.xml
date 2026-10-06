@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CS412AndroidApp</string>
+    <string name="student_name">Nicholas Hoedl</string>
+    <string name="student_id">Student ID: 1387879</string>
+    <string name="btn_start_explicit">Start Activity Explicitly</string>
+    <string name="btn_start_implicit">Start Activity Implicitly</string>
+    <string name="challenges_title">Mobile Software Engineering Challenges</string>
+    <string name="btn_main_activity">Main Activity</string>
+    <string-array name="challenges">
+        <item>Device differences across screen sizes, hardware, and OS versions</item>
+        <item>Limited device resources</item>
+        <item>Unreliable network connectivity</item>
+        <item>Protecting user privacy</item>
+        <item>Testing across many devices and OS versions</item>
+        <item>Keeping up with frequent updates</item>
+    </string-array>
+</resources>
