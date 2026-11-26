@@ -97,6 +97,10 @@ public class MainActivity extends LifecycleLoggingActivity  {
             broadcastIntent.setPackage(getPackageName());
             sendBroadcast(broadcastIntent);
         });
+
+        Button buttonViewImage = findViewById(R.id.buttonViewImage);
+        buttonViewImage.setOnClickListener(v ->
+                startActivity(new Intent(MainActivity.this, ThirdActivity.class)));
     }
 
     @Override

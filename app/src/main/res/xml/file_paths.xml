@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Photos taken by the camera app are written here (see ThirdActivity). -->
+    <cache-path
+        name="captured_images"
+        path="images/" />
+</paths>

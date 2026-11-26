@@ -19,4 +19,9 @@
     <string name="btn_send_broadcast">Send Broadcast</string>
     <string name="grade_placeholder">Grade: -</string>
     <string name="grade_format">Grade: %1$s</string>
+    <string name="btn_view_image">View Image Activity</string>
+    <string name="btn_capture_image">Capture Image</string>
+    <string name="captured_image_description">Captured image</string>
+    <string name="no_camera_app">No camera app found on this device</string>
+    <string name="image_capture_cancelled">Image capture cancelled</string>
 </resources>

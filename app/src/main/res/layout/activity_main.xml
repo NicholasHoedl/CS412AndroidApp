@@ -81,4 +81,12 @@
         android:layout_marginTop="8dp"
         android:text="@string/btn_send_broadcast" />
 
+    <Button
+        android:id="@+id/buttonViewImage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="24dp"
+        android:layout_marginTop="32dp"
+        android:text="@string/btn_view_image" />
+
 </LinearLayout>
